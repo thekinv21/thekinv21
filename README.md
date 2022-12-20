@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vadim</h1>
-<h3 align="center">I am a Junior Web Developer from Russia</h3>
+<h3 align="center">I am a Jr Front-End Developer</h3>
 <img align="right" width="400"  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
 
