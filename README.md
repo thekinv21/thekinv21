@@ -1,9 +1,15 @@
 <h1 align="center">Hi 👋, I'm Vadim</h1>
 <h3 align="center">I am a React Developer</h3>
+
+<div align="center" width="100%">
+ <img  src="https://github.com/thekinv21/thekinv21/assets/92122363/22d487b1-65b2-42e5-931b-2a5598ad5472"/>
+</div>
+
+
 <img align="right" width="400"  src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif"/>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thekinv21&label=Profile%20views&color=0e75b6&style=flat" alt="thekinv21" /> </p>
+
 
 
 # 💫 About Me:
