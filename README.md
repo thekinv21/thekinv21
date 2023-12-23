@@ -16,6 +16,6 @@
 
 <p align="center">
 <img align="left" width="40%" src="https://github-readme-stats.vercel.app/api?username=thekinv21&theme=merko&hide_border=false&include_all_commits=true&count_private=true)"/>
-<img  width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekinv21&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact"/>
+<img  width="38%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekinv21&theme=merko&hide_border=false&include_all_commits=true&layout=compact"/>
 <p/>
 
