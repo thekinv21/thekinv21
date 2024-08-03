@@ -6,7 +6,8 @@
 🔭 I’m currently working on NextJS projects<br>👯 I’m looking to collaborate on NestJS and Spring Boot projects<br>🤝 I’m looking for help with ReactJS and NextJS<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about ReactJS,NextJS,NestJS<br>
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vadim-kiniabaev-035754178/) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@https://medium.com/@thekinv21) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/https://www.linkedin.com/in/vadim-kiniabaev-035754178/](https://www.linkedin.com/in/vadim-kiniabaev-035754178/)) 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]([https://medium.com/@https://medium.com/@thekinv21](https://medium.com/@thekinv21)) 
 
 
 
