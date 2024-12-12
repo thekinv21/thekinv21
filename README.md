@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Vadim</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thekinv21&label=Profile%20views&color=0e75b6&style=flat" alt="thekinv21" /> </p>
-
-# 💫 About Me:
-🔭 I’m currently working on NextJS projects<br>👯 I’m looking to collaborate on NestJS and Spring Boot projects<br>🤝 I’m looking for help with ReactJS and NextJS<br>🌱 I’m currently learning Spring Boot<br>💬 Ask me about ReactJS,NextJS,NestJS<br>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-kiniabaev-035754178/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thekinv21) 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=thekinv21&label=Profile%20views&color=0e75b6&style=flat" alt="thekinv21" /> </p>
 
 
 
@@ -28,9 +24,9 @@
 
  # 📊 GitHub Stats:
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=thekinv21&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekinv21&theme=radical&hide_border=true" alt="GitHub Streak Stats" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekinv21&theme=radical&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thekinv21&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekinv21&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekinv21&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 
 
