@@ -24,10 +24,16 @@
 
  # 📊 GitHub Stats:
 <div align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=thekinv21&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
+  
+  <!-- GitHub Streak Stats -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekinv21&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Streak Stats" /><br/>
+  
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekinv21&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+
 
 
 
