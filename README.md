@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vadim</h1>
 
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vadim-kiniabaev-035754178/) 
 [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@thekinv21) 
@@ -25,13 +26,14 @@
  # 📊 GitHub Stats:
 <div align="center">
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thekinv21&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" /><br/>
-  
-  <!-- GitHub Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thekinv21&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Streak Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thekinv21&theme=merko&hide_border=true" alt="GitHub Stats" /><br/>
+ 
+   <!-- GitHub Streak Stats -->
+  <img src="https://streak-stats.demolab.com?user=thekinv21&theme=merko&hide_border=true&short_numbers=true" alt="GitHub Streak" /><br/>
   
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekinv21&theme=aura_dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=thekinv21&theme=merko&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+
 </div>
 
 
