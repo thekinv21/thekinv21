@@ -25,8 +25,13 @@
 
  # 📊 GitHub Stats:
 <div align="center">
+
+
+ ![](https://raw.githubusercontent.com/username=thekinv21/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+
+
   <!-- GitHub Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=thekinv21&theme=merko&hide_border=true" alt="GitHub Stats" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=thekinv21&theme=merko&hide_border=true&show=contribs" alt="GitHub Stats" /><br/>
  
    <!-- GitHub Streak Stats -->
   <img src="https://streak-stats.demolab.com?user=thekinv21&theme=merko&hide_border=true&short_numbers=true" alt="GitHub Streak" /><br/>
